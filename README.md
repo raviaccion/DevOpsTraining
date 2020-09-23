@@ -12,9 +12,10 @@ DevOps-WebApp for maven web app projects
   -- $sudo apt-get update
   -- $sudo apt-get install maven
   -- $mvn -version
---Install tomcat8 webserver
+--Install tomcat8 webserver with Ubuntu Linux version below 18.0
   -- $apt-get install tomcat8
-
+--Install tomcat9 webserver with Ubuntu Linux version 20.0
+  --$apt-get install tomcat9
 
 To create a simple java project using maven, you need to open command prompt and run the archetype:generate command of mvn tool:
 ----------------------------------------------------------------------------------------------------------------------------------

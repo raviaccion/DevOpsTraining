@@ -5,12 +5,12 @@ DevOps-WebApp for maven web app projects
 
 ## By: Devops
 
-# Pre-reques:
+# Pre-requesites:
 ---------------
 -- Install Java
 -- Install maven
-  -- $sudo apt-get update
-  -- $sudo apt-get install maven
+  -- $sudo apt-get update on Ubuntu Linux Machine 
+  -- $sudo apt-get install maven on Ubuntu Linux Machine
   -- $mvn -version
 --Install tomcat8 webserver with Ubuntu Linux version below 18.0
   -- $apt-get install tomcat8

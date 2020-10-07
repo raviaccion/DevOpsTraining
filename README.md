@@ -36,6 +36,7 @@ To create a simple java project using maven, you need to open command prompt and
  Deploy the project on the server and access it by the following url:
  http://<host-name>:<portnumber>/projectname, for example: http://localhost:8080/DevOps-Training
  By copying the generated war file onto /var/lib/tomcat8/webapp and restart the tomcat8 service
+ By copying the generated war file onto /var/lib/tomcat9/webapp and restart the tomcat9 service
  
 For adding feature copy below lines and update index.html on line 33 
 
